@@ -36,3 +36,10 @@ Welcome to the Bank System!
 4. Exit
 Choose an action (1-4): 3
 Your current balance is: $100
+
+Possible Future Enhancements:
+
+1. Multiple User Support: Allow multiple users to have separate bank accounts.
+2. Interest Calculation: Add an option to calculate interest on savings accounts.
+3. Account Types: Different account types (e.g., checking, savings) with different rules for deposits and withdrawals.
+4. GUI: Build a graphical user interface (GUI) for easier interaction.
